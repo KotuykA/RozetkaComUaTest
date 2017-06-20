@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="rozetka">
+    <test verbose="1" name="NCube_tests">
+       <packages>
+            <package name="ua.com.rozetka.NCubeTest"/>
+        </packages>
+    </test>
+</suite>
