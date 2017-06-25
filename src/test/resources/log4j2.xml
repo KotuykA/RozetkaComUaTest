@@ -1,0 +1,14 @@
+<suite name="Parallel Tests" verbose="1" thread-count="4" parallel="tests">
+    <tests>
+        <test name="Windows+Chrome Test">
+            <parameters>
+                <parameter name="platform" value="windows"/>
+                <parameter name="browser" value="chrome"/>
+            </parameters>
+            <classes>
+                <class name="ua.com.rozetka.NCubeTest"/>
+            </classes>
+        </test>
+    </tests>
+
+</suite>

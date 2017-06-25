@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 public class MainPage extends AbstractPage {
 
     private WebElement mainPageLinkElement;
-    private By mainPageLinkIDLocator = By.id("3361");
+    private By mainPageLinkIDLocator = By.xpath(".//*[@id='3361']/a");
 
     public MainPage(WebDriver driver) {
         super(driver);
