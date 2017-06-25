@@ -12,10 +12,10 @@
         <selenium.version>2.53.1</selenium.version>
         <testng.version>6.8.7</testng.version>
         <maven.surefire.plugin.version>2.19.1</maven.surefire.plugin.version>
-        <allure.version>1.5.2</allure.version>
-        <aspectj.version>1.8.5</aspectj.version>
+        <allure.version>2.17</allure.version>
+        <aspectj.version>2.17</aspectj.version>
         <cucumber.java>1.2.4</cucumber.java>
-        <allur.plugin>2.2</allur.plugin>
+        <allur.plugin>2.17</allur.plugin>
         <maven.compiler.plugin>1.8</maven.compiler.plugin>
         <maven.surefire.plugin>2.18.1</maven.surefire.plugin>
         <jetty-maven-plugin>9.2.10.v20150310</jetty-maven-plugin>
